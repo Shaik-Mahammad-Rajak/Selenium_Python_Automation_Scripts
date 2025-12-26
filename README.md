@@ -3,7 +3,7 @@
 
 This project is a Selenium Python Automation Framework designed for end-to-end UI automation using Python. It follows the Page Object Model (POM) design pattern and uses PyTest for test execution. HTML reports are generated for test results.
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 •	Python 3
 
@@ -17,7 +17,7 @@ This project is a Selenium Python Automation Framework designed for end-to-end U
 
 
 
-# 🌟 Framework Highlights
+# Framework Highlights
 
 •	Modular design using Page Object Model
 
@@ -31,7 +31,7 @@ This project is a Selenium Python Automation Framework designed for end-to-end U
 
 
 
-# 📁 Project Structure
+# Project Structure
 
 Folder/File	Description
 
@@ -45,7 +45,7 @@ requirements.txt	Python dependencies
 
 
 
-# 🧩 Pages
+# Pages
 
 # BasePage
 
@@ -69,7 +69,7 @@ requirements.txt	Python dependencies
 
 
 
-# 🚀 How to Run Tests
+# How to Run Tests
 
 1. Install dependencies
 
@@ -85,7 +85,7 @@ pytest
 
 After running tests, open 'report.html' in the 'reports/' folder.
 
-# 📊 Sample Report
+# Sample Report
 
 •	Generated using pytest-html
 
@@ -95,7 +95,7 @@ After running tests, open 'report.html' in the 'reports/' folder.
 
 
 
-# 👩‍💻 Author
+# Author
 
 Shaik Mahammad Rajak
 
