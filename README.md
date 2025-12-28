@@ -1,7 +1,7 @@
 # Selenium Python Automation Framework
 # Project Overview
 
-This project is a Selenium Python Automation Framework designed for end-to-end UI automation using Python. It follows the Page Object Model (POM) design pattern and uses PyTest for test execution. HTML reports are generated for test results.
+This project is a Selenium Python Automation Framework designed for UI automation using Python. It follows the Page Object Model (POM) design pattern and uses PyTest for test execution. HTML reports are generated for test results.
 
 # Tech Stack
 
